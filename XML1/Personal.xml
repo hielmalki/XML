@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Personal>
+
+	<Person ID="002" Type="Professor" Email="bt@hs-rm.de">
+	Bernhard Turban
+	</Person>
+
+	<Person ID="003" Type="Dekan" Email="mm@hs-rm.de">
+	Max Mustermann
+	</Person>
+	
+	<Person ID="004" Type="Student" Email="mf@hs-rm.de">
+	Moritz Faultier
+	</Person>
+	
+	<Person ID="005" Type="Student" Email="tc@hs-rm.de">
+	Torsten Checker
+	</Person>
+	
+</Personal>
